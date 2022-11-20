@@ -1,0 +1,30 @@
+*{box-sizing: border-box;}
+nav{background-color:rgba(37, 36, 36,0.8);}
+.first-content img{width: 108px;height: 40px;}
+.VcardClass ion-icon{margin-bottom: -3px!important;}
+.collapse{justify-content: flex-end!important;}
+.second-content ul li{display: inline-block;margin-right: 20px;}
+.second-content ul li a{text-decoration: none;color: #EEE;}
+
+.dropbtn {color: white;text-align: center;text-decoration: none;}
+.dropdown-content {display: none;position: absolute;margin-left:5px;background-color:white;min-width: 100px;;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;}
+.dropdown-content a {color: black!important;padding: 6px 8px;text-decoration: none;display: block;text-align: left;}
+.dropdown-content a:hover {background-color:darkgrey;}
+.dropdown:hover .dropdown-content {display: block;}
+
+.bground{margin-top: 50px;margin-bottom: 93px;}
+.row{margin-right: 0!important;margin-left: 0!important;}
+.forPosition{position: relative;top: 35%;}
+@media (max-width:768px) {.forPosition{top: 10%;}}
+.forPosition h1{font-size: 57px;}
+.forImgPosition{position: relative;top:10%;}
+.forImgPosition img{border-bottom-right-radius: 30%;}
+.dom{background-color:white;border-bottom: 2px solid gray;}
+.forMargin{margin-bottom: 32px;}
+.pppo{color: #0f0e0e;font-size:large;margin-bottom: 0!important;}
+.pppo ion-icon{margin-bottom: -2px!important;font-size: 20px;}
+
+.card-img-top{width: 325!important;height: 240px!important;}
+
+
+
